@@ -25,13 +25,19 @@ A responsive web app to explore countries and view their details using the Count
 
 ## 📂 Project Structure
 │
+
 ├── index.html # Homepage - displays all country cards
+
 ├── country.html # Detail page - displays info for selected country
+
 │
+
 ├── script.js # JS logic for fetching and displaying all countries
+
 ├── country.js # JS logic for displaying specific country details
+
 │
+
 ├── style.css # Styles for homepage
-├── country.css # Styles for country detail page
-│
-└── README.md # Project documentation
+
+└── country.css # Styles for country detail page
